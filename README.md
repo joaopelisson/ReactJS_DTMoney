@@ -1,6 +1,6 @@
 # ReactJS_DTMoney 💲
 
-_This project was developed during the course of @rockeseat Ignite | frontend with ReactJS 🔥_
+_This project was developed during the course of @rocketseat Ignite | frontend with ReactJS 🔥_
 
 ℹ️ The objective of this project is mainly to work on the consumption of API'S and also performance (features of reactjs itself and third party libs).
 
