@@ -14,7 +14,7 @@ _This project was developed during the course of @rocketseat Ignite | frontend w
 
 ### ⚠ It is currently under development, please check back later ⚠
 #### 💻 Currently developing:
-- Visual structure (3/10) ⚙
+- Visual structure (6/10) ⚙
 - API connection ⚠  (not started yet)
 - Performance ⚠ (not started yet)
 
